@@ -1,6 +1,5 @@
 ---
-title: COMPANY POST INTERN
-parent: Interview-Preparations
+title: COMPANY POST INTERN Template
 nav_order: 1
 has_toc: false
 ---

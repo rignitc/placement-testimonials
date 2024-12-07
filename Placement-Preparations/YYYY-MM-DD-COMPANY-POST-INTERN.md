@@ -1,6 +1,5 @@
 ---
-title: COMPANY POST FTE
-parent: Placement-Preparations
+title: COMPANY POST FTE Template
 nav_order: 1
 has_toc: false
 ---
