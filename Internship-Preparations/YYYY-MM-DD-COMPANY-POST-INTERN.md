@@ -1,5 +1,6 @@
 ---
 title: COMPANY POST INTERN Template
+parent: Internship-Preparations
 nav_order: 1
 has_toc: false
 ---
