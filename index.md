@@ -30,4 +30,4 @@ This is a Website Made by RIGNITC for guiding the members of the club in Placeme
 ## Credits
 - [Contribution Guide](https://github.com/firstcontributions)
 - [Just the Doc Theme](https://github.com/just-the-docs/just-the-docs)
-- [Web Dev Team]()
+
