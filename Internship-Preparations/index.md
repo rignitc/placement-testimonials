@@ -1,5 +1,5 @@
 ---
-title: Internship-Preparation
+title: Internship-Preparations
 nav_order: 5
 ---
 
