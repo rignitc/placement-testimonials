@@ -208,31 +208,26 @@ just_the_docs:
 
       Oncampus-Testimonials:
         name: Oncampus-Testimonials
+        nav_fold: true
         # Exclude the collection from the navigation
         # Supports true or false (default)
         # nav_exclude: true
         # Fold the collection in the navigation
-          # Supports true or false (default)
-        nav_fold: true  # note: this option is new in v0.4
-          # Exclude the collection from the search
+        # Supports true or false (default)
+        # nav_fold: true  # note: this option is new in v0.4
+        # Exclude the collection from the search
         # Supports true or false (default)
         # search_exclude: true
 
       Offcampus-Testimonials:
         name: Offcampus-Testimonials
-          # nav_exclude: true
         nav_fold: true
-          # search_exclude: true 
-  
-
+         
       Internship-Preparations:
         name: Internship-Preparations
-          # nav_exclude: true
         nav_fold: true
-          # search_exclude: true 
-
+        
       Placement-Preparations:
         name:  Placement-Preparations
-          # nav_exclude: true
         nav_fold: true
-          # search_exclude: true 
+          
