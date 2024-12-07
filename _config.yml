@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://rignitc.github.io/placement-testimonials
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
