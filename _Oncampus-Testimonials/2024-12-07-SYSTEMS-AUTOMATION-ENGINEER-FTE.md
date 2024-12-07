@@ -1,7 +1,6 @@
 ---
 title: TCS Systems Automation Engineer
 parent: Oncampus-Testimonials
-grand_parent: Testimonials
 nav_order: 3
 has_toc: false
 ---
