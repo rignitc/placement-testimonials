@@ -174,7 +174,7 @@ compress_html:
 
 # collections:
 #   Oncampus-Testimonials:
-#     permalink: "/:collection/:path/"
+#     permalink: /internship-preparations/:path/
 #     output: true
 #   Offcampus-Testimonials:
 #     permalink: "/:collection/:path/"
