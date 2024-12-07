@@ -9,3 +9,4 @@ gem "jekyll-github-metadata"
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 gem 'jekyll-include-cache'
+gem "csv"
