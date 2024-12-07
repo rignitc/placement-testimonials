@@ -189,27 +189,46 @@ compress_html:
   #   envs: all
 
 collections:
-  TCS:
+  Oncampus-Testimonials:
     permalink: "/:collection/:path/"
     output: true
-  Honeywell:
+  Offcampus-Testimonials:
+    permalink: "/:collection/:path/"
+    output: true
+  Placement-Preperations:
+    permalink: "/:collection/:path/"
+    output: true
+  Internship-Preperations:
     permalink: "/:collection/:path/"
     output: true
     
 
 just_the_docs:
   collections:
-    TCS:
-      name: TCS
+    Testimonials:
+      name: Oncampus-Testimonials
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      # nav_exclude: true
+      nav_exclude: true
       # Fold the collection in the navigation
       # Supports true or false (default)
-      # nav_fold: true  # note: this option is new in v0.4
+      nav_fold: true  # note: this option is new in v0.4
       # Exclude the collection from the search
       # Supports true or false (default)
-      # search_exclude: true
+      search_exclude: true
+
+      name: Offcampus-Tesimonials
+      nav_exclude: true
+      nav_fold: true
+      search_exclude: true 
     
-    Honeywell:
-      name: Honeywell
+    Preparations:
+      name: Internship-Preparations
+      nav_exclude: true
+      nav_fold: true
+      search_exclude: true 
+
+      name: Placement-Preparations
+      nav_exclude: true
+      nav_fold: true
+      search_exclude: true 
