@@ -218,5 +218,6 @@ compress_html:
 
 nav_external_links:
   - title: Add your Testimonial
-    url: https://github.com/rignitc/placement-testimonials
+    url: https://github.com/new?template_name=placement-testimonials&template_owner=rignitc
+
     nav_order: 99
