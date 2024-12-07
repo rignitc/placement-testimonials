@@ -186,19 +186,19 @@ compress_html:
   # ignore:
   #   envs: all
 
-# collections:
-#   Oncampus-Testimonials:
-#     permalink: "/:collection/:path/"
-#     output: true
-#   Offcampus-Testimonials:
-#     permalink: "/:collection/:path/"
-#     output: true
-#   Placement-Preparations:
-#     permalink: "/:collection/:path/"
-#     output: true
-#   Internship-Preparations:
-#     permalink: "/:collection/:path/"
-#     output: true
+collections:
+  Oncampus-Testimonials:
+    permalink: "/:collection/:path/"
+    output: true
+  Offcampus-Testimonials:
+    permalink: "/:collection/:path/"
+    output: true
+  Placement-Preparations:
+    permalink: "/:collection/:path/"
+    output: true
+  Internship-Preparations:
+    permalink: "/:collection/:path/"
+    output: true
     
 
 # just_the_docs:
