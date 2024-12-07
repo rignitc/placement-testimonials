@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: RIGNITC Placement-testimonials
+description: A website for guiding RIGNITC Members in Interview Preparation and Placement
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://rignitc.github.io/placement-testimonials
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
