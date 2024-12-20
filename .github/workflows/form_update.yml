@@ -1,0 +1,20 @@
+name: formUpdate
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      API_KEY_SHEETS: ${{ secrets.API_KEY_SHEETS }}
+      SPREADSHEET_ID_SHEETS: ${{ secrets.SPREADSHEET_ID_SHEETS }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 ./automate.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "generated"
+          git push
