@@ -1,6 +1,7 @@
 import requests
 import os
 
+os.system('ls')
 API_KEY = os.environ["API_KEY_SHEETS"]
 SPREADSHEET_ID = os.environ["SPREADSHEET_ID_SHEETS"]
 range_to_read = 'A2:C'
