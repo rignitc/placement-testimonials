@@ -16,7 +16,7 @@ content_text = last_entry[2]
 
 print("RESPONSE:\n", response.json())
 
-with open("tests/TEST_FORM.md", "a") as fd:
+with open("Placement-Preparations/test.md", "a") as fd:
       fd.write(f"""
 # {heading_text}
 
